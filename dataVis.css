@@ -1,0 +1,13 @@
+
+/* site - full width and height, no margin or padding */
+html, body {
+    width: 100%;
+    height: 100%;
+}
+
+/* map - full width, half height */
+/* plot - full width, half height*/
+.half-screen {
+    width: 100%;
+    height: 50%;
+}
